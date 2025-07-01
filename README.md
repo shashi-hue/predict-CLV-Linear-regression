@@ -1,4 +1,4 @@
-# Customer Lifetime Value (CLV) Prediction 📊
+# Customer Lifetime Value (CLV) Prediction 
 
 A machine learning project that predicts how much money customers will spend in the future based on their past shopping behavior.
 
